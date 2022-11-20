@@ -19,15 +19,28 @@ https://www.youtube.com/watch?v=CxgOKJh4zWE
 
 Имена часто называют ключами
 0:21:13
+
 Вот пример объекта:
 {
-   visible: true,
+  visible: true,
+  colorDepth: 24,
+  title: 'My Image',
+  orientation: {
+    angle: 0,
+    type: 'landscape'
+  },
+  pixelDepth: 24,
+  width: 1440
+}
 
-
-
-
-
-
+Объект находится между парой фигурных скобок (в самом начале и в конце текста объекта), и, между ними находятся пары ключ значение:
+***
+- первый ключ
+  visible:
+- его значение 
+ true,
+***
+0:21:42
 
 
 
