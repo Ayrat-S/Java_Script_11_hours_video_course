@@ -25,9 +25,17 @@
 }
 
 5. У некоторых свойств значением может быть также объект - такие объекты называются вложенными объектами:
-orientation: {
-  angle: 0,
-  type: 'Landscape'
+{
+  visible: true,
+  colorDepth: 24,
+  title: 'My Image',
+  orientation: {
+    angle: 0,
+    type: 'landscape'
+  },
+  pixelDepth: 24,
+  width: 1440
 }
+
 
 */
