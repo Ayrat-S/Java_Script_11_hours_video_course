@@ -2,6 +2,8 @@
 // Bogdan Stashchuk
 // https://www.youtube.com/watch?v=CxgOKJh4zWE
 
+// ТЕМА: Выражения.
+
 /*
 ВЫРАЖЕНИЕ
 
