@@ -2,8 +2,11 @@
 // Bogdan Stashchuk
 // https://www.youtube.com/watch?v=CxgOKJh4zWE
 
+// ТЕМА: Что такое console.log
+
 /*
-CONSOLE.LOG (это выражение).
+
+console.log (это выражение).
 
 0:23:26
 console.log('Hello World')
@@ -145,4 +148,5 @@ debug и т.д.
 Кроме того - вызов функции - это ВЫРАЖЕНИЕ.
 Почему это выражение? Потому что вызов функции всегда возвращает значение.
 И в данном примере результат функции - это значение undefined.
+
 */
