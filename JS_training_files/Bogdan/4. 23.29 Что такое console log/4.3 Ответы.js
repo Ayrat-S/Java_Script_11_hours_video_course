@@ -34,5 +34,10 @@ Name
 undefined
 */
 
-
+/* 4. Выражение - это вызов функции.
+>  console.log('Hello world')
+   Hello world
+<. undefined
+Результатом вызова данной функции будет значение undefined. Это то что нам вернул этот метод log.
+*/
 
