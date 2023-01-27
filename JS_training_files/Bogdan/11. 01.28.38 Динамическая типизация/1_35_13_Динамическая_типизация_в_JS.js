@@ -9,12 +9,5 @@
 больше вы не сможете вызвать функцию, которую определили ранее - вы получите ошибку (TypeError: a is not a function).
 */
 
-function a() {
-    console.log('Hey there')
-}
 
-a() // 'hey there'
 
-a = 0
-
-a() // TypeError: a is not a function
