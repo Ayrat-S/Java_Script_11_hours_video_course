@@ -1,6 +1,9 @@
 JavaScript - Полный Курс JavaScript Для Начинающих [11 ЧАСОВ]
 https://www.youtube.com/watch?v=CxgOKJh4zWE&list=RDCMUCiyasqPIZz8zzbJp7-17dJw&start_radio=1
 
+Ссылка на гугл док:
+https://docs.google.com/spreadsheets/d/1NYTPZYfbZAWZ1G1v23wrSSjRZYZj3gMVIZnAgPSObuM/edit#gid=0
+
 00:00 Введение / 3+34
 07:38 Как выполнять код / 53
 20:17 Самое важное в JavaScript
