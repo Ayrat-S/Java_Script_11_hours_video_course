@@ -6,7 +6,7 @@ https://docs.google.com/spreadsheets/d/1NYTPZYfbZAWZ1G1v23wrSSjRZYZj3gMVIZnAgPSO
 
 00:00 Введение / 3+34
 07:38 Как выполнять код / 53
-20:17 Самое важное в JavaScript
+20:17 Самое важное в JavaScript / 26
 23:29 Что такое console log
 32:24 Выражения
 41:24 Переменные
