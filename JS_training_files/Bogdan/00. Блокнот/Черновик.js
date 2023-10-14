@@ -1,7 +1,5 @@
 
-3 + 2
-
-'Name'
+console
 
 
 
