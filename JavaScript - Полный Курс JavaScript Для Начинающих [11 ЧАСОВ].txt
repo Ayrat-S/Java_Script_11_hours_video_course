@@ -4,11 +4,11 @@ https://www.youtube.com/watch?v=CxgOKJh4zWE&list=RDCMUCiyasqPIZz8zzbJp7-17dJw&st
 Ссылка на гугл док:
 https://docs.google.com/spreadsheets/d/1NYTPZYfbZAWZ1G1v23wrSSjRZYZj3gMVIZnAgPSObuM/edit#gid=0
 
-00:00 Введение / 3+34
-07:38 Как выполнять код / 53
-20:17 Самое важное в JavaScript / 26
-23:29 Что такое console log / 174
-32:24 Выражения
+00:00 Введение / 00:37
+07:38 Как выполнять код / 00:53
+20:17 Самое важное в JavaScript / 00:26
+23:29 Что такое console log / 02:54
+32:24 Выражения / 01:43
 41:24 Переменные
 49:43 Объявление переменных
 59:41 Практика по созданию переменных
