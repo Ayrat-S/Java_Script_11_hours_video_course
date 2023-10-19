@@ -26,4 +26,4 @@ let Truck = {
 console.log(Truck.Windows.Front) // выведет в OUTPUT значение свойства вложенного объекта через точечную запись.
 */
 
-console.table(console.log)
+

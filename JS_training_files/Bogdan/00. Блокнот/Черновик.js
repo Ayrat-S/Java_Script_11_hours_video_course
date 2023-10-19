@@ -1,9 +1,2 @@
-
-b = 2
-b++
-
-console.log(b)
-console.log(b++)
-
-
-
+1
+console.log(console.log(1))
