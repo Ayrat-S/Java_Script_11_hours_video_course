@@ -1,2 +1,2 @@
-1
-console.log(console.log(1))
+let myName
+console.log(myName)
