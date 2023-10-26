@@ -1,2 +1,3 @@
-let myName
+const myName = 'Name'
+myName = ''
 console.log(myName)
