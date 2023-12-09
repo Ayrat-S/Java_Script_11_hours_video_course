@@ -1,16 +1,17 @@
-
 /*
-// Синтаксис со скобками - если название свойства является значением той или иной переменной.
+// Удаление свойства вложенного объекта:
 const myCity = {
-    city: 'New York'
-} // Присваиваем объект.
+    city: 'New York',
+    info: {
+        isPopular: true,
+        country: 'USA'
+    }
+}
 
-const countryPropertyName = 'country' // Создаем новую переменную со значением 'country' 
+console.log(myCity.info.isPopular) // true
 
-myCity[countryPropertyName] = 'USA' // Пошагово разбираем данное выражение:
-// 1) Парсинг значения. Квадратные скобки парсят значение 'country' из переменной countryPropertyName. 
-// 2) Присвоение свойства. Далее в этом выражении объекту myCity присваивается новое свойство с парсенным названием - 'country'. 
-// 3) Присвоение значения. Новому свойству 'country', у объекта myCity, через оператор = присваивается значение 'USA'.
+delete myCity.info['isPopular'] // В данном случае использование квадратных скобок бесмысленно (delete myCity.info.isPopular - через вторую точку тоже удаляет).
+// => Используйте запись с квадратными скобками только тогда, когда здесь в квадартных скобках должно быть какое-то выражение - например название переменной (т.е. что-то можно спарсить).
 
-console.log(myCity) // { city: 'New York', popular: true, country: 'USA' }
+console.log(myCity) // { city: 'New York', info: { country: 'USA' } }
 */
