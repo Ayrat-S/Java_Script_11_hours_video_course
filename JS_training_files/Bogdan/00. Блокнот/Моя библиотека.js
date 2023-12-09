@@ -14,6 +14,7 @@ console.log(console.log) // выведет в OUTPUT значение свойс
 */
 
 /*
+// Вывод значения свойства вложенного объекта:
 let Truck = {
     Wheels: 8,
     Windows: {
@@ -26,4 +27,27 @@ let Truck = {
 console.log(Truck.Windows.Front) // выведет в OUTPUT значение свойства вложенного объекта через точечную запись.
 */
 
+/*
+// Удаление свойства объекта:
+delete - оператор для удаления свойства объекта.
+Пример:
 
+const objectPerson1 = {
+    name: 'Jim',
+    age: 35,
+    car: true
+}
+
+delete objectPerson1.car
+console.log(objectPerson1)
+*/
+
+/*
+// Вывод значения свойства у массива:
+let ArrayFruits1 = [1,2,3]
+ArrayFruits1[1] = {
+    Fruit1: 'Apple', 
+    Fruit2: 'Banana'
+}
+console.log('Вывод значения свойства "Fruit2" у массива [1]:', ArrayFruits1[1].Fruit2)
+*/

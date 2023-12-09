@@ -1,13 +1,19 @@
-const objectPerson1 = {
-    name: 'Jim',
-    age: 35
+// function a() {
+//     console.log('Hey there')
+// }
+
+// a() // 'Hey there'
+
+// a = 10
+
+// a() // Uncaught TypeError: a is not a function
+
+const a = () => {
+    console.log('Hey there')
 }
 
-const objectPerson2 = objectPerson1
-console.log(objectPerson1)
+a()
 
-objectPerson2.age = 37
-console.log(objectPerson2)
+a = 10
 
-objectPerson1.car = true
-console.log(objectPerson2)
+
