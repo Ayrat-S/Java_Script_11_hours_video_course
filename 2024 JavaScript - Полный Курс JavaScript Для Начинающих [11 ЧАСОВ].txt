@@ -4,9 +4,9 @@ https://www.youtube.com/watch?v=CxgOKJh4zWE&list=RDCMUCiyasqPIZz8zzbJp7-17dJw&st
 Ссылка на гугл док "JavaScript - Полный Курс JavaScript Для Начинающих [11 ЧАСОВ]" (ayrat.jimbarez01@gmail.com):
 https://docs.google.com/spreadsheets/d/1NYTPZYfbZAWZ1G1v23wrSSjRZYZj3gMVIZnAgPSObuM/edit#gid=709428428 
 
-00:00 Введение / 
-07:38 Как выполнять код / 
-20:17 Самое важное в JavaScript / 
+00:00 Введение / 00:13
+07:38 Как выполнять код / 00:50
+20:17 Самое важное в JavaScript / 00:14
 23:29 Что такое console log / 
 32:24 Выражения / 
 41:24 Переменные / 
